@@ -315,10 +315,10 @@ alert('Suas féria lhe renderam bons ensinamentos. Você conseguiu 55 PONTOS DE 
 (experiencia + 55)
 alert('Agora você tem:\n' + fisico + ' pontos de físico.\n' + experiencia + ' pontos de experiência.\n' + tecnica + ' pontos de técnica.');
 alert('Você voltou de suas férias e começará á treinar para o Rio Slalom Tournament.')
-
+alert("2016");
+alert("Professor Oliver - Lhe escrevemos em um campeonato em Estrasburgo em Junho.");
 function iniciarTreinamento2017() {
-    alert("2016");
-    alert("Professor Oliver - Lhe escrevemos em um campeonato em Estrasburgo em Junho.");
+
     
    
     novembro2017();
